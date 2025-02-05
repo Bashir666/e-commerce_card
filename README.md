@@ -23,6 +23,10 @@ Control the personal account (edit name, email, and password).
 
 Manage products (add a new product, edit it, delete it, and view all available products).
 
+Administrator account:
+Email:admin@gmail.com
+Pass:11111111
+
 Easy checkout.
  ![image alt](https://github.com/Bashir666/e-commerce_card/blob/133c6fe709bb1cd5658302a6508c035ccc27844b/Screenshot%202025-02-05%20163509.png)
  ![image alt](https://github.com/Bashir666/e-commerce_card/blob/3b2cb8b3066dd493757211f194ea9c8b7be2e1e9/Screenshot%202025-02-05%20163540.png)
@@ -33,9 +37,5 @@ Easy checkout.
  ![image alt](https://github.com/Bashir666/e-commerce_card/blob/3b2cb8b3066dd493757211f194ea9c8b7be2e1e9/Screenshot%202025-02-05%20163800.png)
  ![image alt](https://github.com/Bashir666/e-commerce_card/blob/3b2cb8b3066dd493757211f194ea9c8b7be2e1e9/Screenshot%202025-02-05%20163824.png)
 
-
-Administrator account:
-Email:admin@gmail.com
-Pass:11111111
  
  
