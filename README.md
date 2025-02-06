@@ -24,7 +24,8 @@ Control the personal account (edit name, email, and password).
 Manage products (add a new product, edit it, delete it, and view all available products).
 Easy checkout.
 
-Administrator account:
+Administrator account: 
+*******************************************************************************************************************************************************************************************************************************************************************************
 Email:admin@gmail.com
 Pass:11111111
 
